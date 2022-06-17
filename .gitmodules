@@ -1,0 +1,8 @@
+[submodule "BeaverWorks"]
+	path = BeaverWorks
+	url = git@github.com:Sayeem2004/BWSI.git
+	branch = master
+[submodule "HackMIT/Porcelain"]
+	path = HackMIT/Porcelain
+	url = git@github.com:Sayeem2004/Porcelain.git
+	branch = main
